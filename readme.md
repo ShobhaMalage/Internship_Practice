@@ -24,5 +24,5 @@ This repository contains my internship practice code and projects.
 
 Shobha Malage
 
-
+Solapur Maharashtara
 
